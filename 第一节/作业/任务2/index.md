@@ -4,6 +4,9 @@
 python script.py
 ```
 
+![](./images/p1.png)
+![](./images/p2.png)
+
 ## OpenCode 编排
 ![](./images/p3.png)
 ![](./images/p4.png)
