@@ -1,0 +1,13 @@
+# 基础依赖
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# 日志和配置
+python-json-logger>=2.0.0
+
+# 类型提示（可选）
+typing-extensions>=4.8.0
+
+# 测试相关（开发环境）
+pytest>=7.4.0
+pytest-cov>=4.1.0
